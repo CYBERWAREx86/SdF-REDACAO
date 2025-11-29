@@ -1,1 +1,3 @@
-Script para Sala do Futuro, automatiza a criação de redações com base em um texto copiado!!
+# Script para Sala do Futuro
+
+## Automatiza a criação de redações com base em um texto copiado!!
